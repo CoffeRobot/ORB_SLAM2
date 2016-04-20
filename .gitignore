@@ -1,0 +1,6 @@
+/lib/libORB_SLAM2.so
+/build/*
+/Examples/*
+/Thirparty/DBoW2/build/*
+/Thirparty/g2o/build/*
+
